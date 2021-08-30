@@ -1,6 +1,3 @@
-THIS REPOSITORY WAS DEPRECATED. Please use repository of new maintainer https://github.com/AlexVerrico/octoprint-stats
-
-
 # OctoPrint-Stats
 
 This plugin is designed to show statistics of your printer and estimate power usage in kWh.
